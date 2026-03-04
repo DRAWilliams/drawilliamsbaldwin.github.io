@@ -16,7 +16,20 @@ minimal_mistakes_skin: "default"
 url: "https://drawilliamsbaldwin.github.io"
 baseurl: ""
 
+# --- Logo --- #
 
+# Image to show in the navigation bar - works best with a square image
+# Remove this parameter if you don't want an image in the navbar
+avatar: "/figures/275911576_10158192491852102_7087395702249941919_n copy.png"
+
+# By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
+round-avatar: true
+
+# If you want to have an image logo in the top-left corner instead of having the title of the website,
+# then specify the following parameter
+title-img: "/figures/275911576_10158192491852102_7087395702249941919_n copy.png"
+
+# -- Navigation -- #
 
 # Navigation
 nav:
