@@ -1,0 +1,17 @@
+title: "Dr David Williams-Baldwin"
+description: "Research Fellow"
+theme: null
+
+# Use the Minimal Mistakes theme via remote_theme:
+remote_theme: mmistakes/minimal-mistakes
+
+# Plugins required by the theme
+plugins:
+  - jekyll-include-cache
+
+# Minimal Mistakes settings
+minimal_mistakes_skin: "default"
+
+# Your site settings
+url: "https://drawilliamsbaldwin.github.io"
+baseurl: ""
