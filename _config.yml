@@ -1,4 +1,6 @@
-theme: jekyll-theme-minimal
+remote_theme: mmistakes/minimal-mistakes
+plugins:
+  - jekyll-remote-theme
 #title: David Williams-Baldwin's homepage
 #description: Website for Dr David R A Williams
 
